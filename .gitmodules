@@ -1,0 +1,6 @@
+[submodule "KaTeX"]
+	path = KaTeX
+	url = git@github.com:SichangHe/KaTeX--KaTeX.git
+[submodule "js-to-lua"]
+	path = js-to-lua
+	url = git@github.com:SichangHe/Roblox--js-to-lua.git
